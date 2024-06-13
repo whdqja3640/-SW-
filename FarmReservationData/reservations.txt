@@ -1,0 +1,1 @@
+customer,test,farmer,배추,1,100

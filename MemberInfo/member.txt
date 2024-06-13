@@ -1,0 +1,6 @@
+customer,customer,010-1111-1234,Customer
+farmer,farmer,010-1,Farmer
+admin,admin,010-2,Administrator
+test,test,1,Customer
+test1,test2,1,Customer
+farmer,farmer,1,Farmer

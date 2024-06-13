@@ -1,0 +1,12 @@
+햇살 농장,홍길동,토마토;오이;상추,honggildong
+녹색 계곡 농장,김영희,딸기;블루베리,kimyounghee
+수확의 달 농장,박철수,당근;감자,parkcheolsu
+봄 꽃 농장,이민지,사과;복숭아;체리,leeminji
+황금 들판 농장,최영수,옥수수;밀,choiyoungsu
+강변 농장,정수진,쌀;콩,jeongsujin
+산꼭대기 농장,이동현,오렌지;레몬;포도,leedonghyun
+계곡 뷰 농장,박민정,땅콩;해바라기,parkminjung
+과수원 농장,김진우,배;자두;살구,kimjinwoo
+초원 농장,이수현,호박;애호박,leesuhyun
+farmer 농장, 관리자, 딸기;멜론,farmer
+t,t,t,t
